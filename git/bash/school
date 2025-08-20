@@ -1,2 +1,4 @@
 #!/bin/bash
 echo "School"
+
+massage: "Starting to code today, so cool"
