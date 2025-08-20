@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "School"
-
-massage: "Starting to code today, so cool"
+echo "The School is open!"
+message: "Starting to code today, so cool"
